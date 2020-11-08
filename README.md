@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![z2014's github stats](https://github-readme-stats.vercel.app/api?username=z2014)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **z2014/z2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
